@@ -8,6 +8,6 @@ public class NewsRestController {
 
     @RequestMapping("/message")
     public String getMessage() {
-        return "Hello News Scrapper";
+        return "Helloooo News Scrapper";
     }
 }
